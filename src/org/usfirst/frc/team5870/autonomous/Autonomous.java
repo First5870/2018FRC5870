@@ -18,7 +18,9 @@ import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 import static org.usfirst.frc.team5870.autonomous.Direction.*;
 
 /*
- * @author Eric Klassen 
+ * @author Eric Klassen
+ * @author Dennis Krasnov
+ * @author David Pop
  */
 
 public class Autonomous extends CommandGroup {
